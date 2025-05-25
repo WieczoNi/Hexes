@@ -1,0 +1,108 @@
+
+Mind's Reflection
+Compass' Purification
+Numerical Reflection(16)
+Zone Distillation: Item
+
+Mind's Reflection
+Compass' Purification
+Mind's Reflection
+Alidade's Purification
+Scout's Distillation
+Sorter's Purification
+Huginn's Gambit
+
+Vector Reflection -X
+Vector Reflection -Y
+Vector Reflection -Z
+Additive Distillation
+Additive Distillation
+Numerical Reflection(8)
+Multiplicative Distillation
+Mind's Reflection
+Compass' Purification
+Additive Distillation
+//initial loop index
+Numerical Reflection(0)
+{
+    Gemini Decomposition
+    Numerical Reflection(17)
+    Modulus Distillation
+    Prospector's Gambit
+    Numerical Reflection(17)
+    Division Distillation
+    Floor Purification
+    Numerical Reflection(17)
+    Modulus Distillation
+    Numerical Reflection(2)
+    Fisherman's Gambit II
+    Numerical Reflection(289)
+    Division Distillation
+    Floor Purification
+    Vector Exaltation 
+    Numerical Reflection(2)
+    Fisherman's Gambit II
+    Additive Distillation 
+    Gemini Decomposition
+    Sorter's Purification 
+    Muninn's Reflection 
+    Equality Distillation
+    {
+        Break Block
+        Bookkeeper's Gambit(v)
+    }
+    Flock's Disintegration
+    Augur's Exaltation
+    Hermes' Gambit
+    Numerical Reflection(1)
+    Additive Distillation
+}
+Numerical Reflection(289)
+Gemini Gambit
+{
+    Combination Distillation
+}
+Flock's Disintegration
+Numerical Reflection(288)
+Gemini Gambit
+Numerical Reflection(288)
+Flock's Gambit 
+Hermes' Gambit
+Numerical Reflection(17)
+Gemini Gambit
+{
+    Combination Distillation
+}
+Flock's Disintegration
+Numerical Reflection(16)
+Gemini Gambit
+Numerical Reflection(16)
+Flock's Gambit
+Hermes' Gambit
+Hermes' Gambit 
+
+Bookkeeper's Gambit(vv)
+//get items currently present
+Mind's Reflection
+Compass' Purification
+Numerical Reflection(16)
+Zone Distillation: Item
+//remove preexisting items from list
+Undertaker's Gambit
+Intersection Distillation
+Exclusionary Distillation //stack state: new items
+{
+    Gate's Opening
+}
+Jester's Gambit //pattern list for thoth, new items
+{
+    //placeholder for gate iota
+    Bookkeeper's Gambit(-)
+}
+Flock's Disintegration
+Rotation Gambit II
+Thoth's Gambit
+Bookkeeper's Gambit(v)
+Mind's Reflection
+Compass' Purification
+Gate's Closing
